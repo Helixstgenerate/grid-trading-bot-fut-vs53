@@ -1,4 +1,4 @@
-# 
+# Get the ultimate grid trading bot for futures with best grid trading bot for futures Executor | backtesting + multi-exchange-support. Featuring backtesting and
 
 
 
